@@ -1,0 +1,11 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.67
+
+define_size = 24, not-allowed_000.png, 50
+define_size = 36, not-allowed_001.png, 50
+define_size = 48, not-allowed_002.png, 50
+
+define_override = circle
+define_override = 03b6e0fcb3499374a867c041f52298f0
+define_override = crossed_circle

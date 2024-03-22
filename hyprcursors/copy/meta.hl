@@ -1,0 +1,12 @@
+resize_algorithm = none
+hotspot_x = 0.17
+hotspot_y = 0.17
+
+define_size = 24, copy_000.png, 50
+define_size = 36, copy_001.png, 50
+define_size = 48, copy_002.png, 50
+
+define_override = dnd-copy
+define_override = 1081e37283d90000800003c07f3ef6bf
+define_override = b66166c04f8c3109214a4fbd64a50fc8
+define_override = 6407b0e94181790501fd1e167b474872

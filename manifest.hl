@@ -1,0 +1,4 @@
+name = Dracula
+description = Hyprcursor created from the Dracula theme KDE XCursor
+version = 0.1
+cursors_directory = hyprcursors

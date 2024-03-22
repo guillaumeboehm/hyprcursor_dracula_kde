@@ -1,0 +1,11 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.67
+
+define_size = 24, size_bdiag_000.png, 50
+define_size = 36, size_bdiag_001.png, 50
+define_size = 48, size_bdiag_002.png, 50
+
+define_override = nesw-resize
+define_override = sw-resize
+define_override = ne-resize

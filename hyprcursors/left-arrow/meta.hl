@@ -1,0 +1,8 @@
+resize_algorithm = none
+hotspot_x = 0.17
+hotspot_y = 0.67
+
+define_size = 24, left-arrow_000.png, 50
+define_size = 36, left-arrow_001.png, 50
+define_size = 48, left-arrow_002.png, 50
+

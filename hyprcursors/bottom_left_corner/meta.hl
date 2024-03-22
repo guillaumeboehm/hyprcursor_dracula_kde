@@ -1,0 +1,8 @@
+resize_algorithm = none
+hotspot_x = 0.17
+hotspot_y = 1.08
+
+define_size = 24, bottom_left_corner_000.png, 50
+define_size = 36, bottom_left_corner_001.png, 50
+define_size = 48, bottom_left_corner_002.png, 50
+

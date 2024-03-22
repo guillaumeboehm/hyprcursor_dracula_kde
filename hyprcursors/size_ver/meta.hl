@@ -1,0 +1,14 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.67
+
+define_size = 24, size_ver_000.png, 50
+define_size = 36, size_ver_001.png, 50
+define_size = 48, size_ver_002.png, 50
+
+define_override = v_double_arrow
+define_override = ns-resize
+define_override = sb_v_double_arrow
+define_override = 00008160000006810000408080010102
+define_override = s-resize
+define_override = n-resize

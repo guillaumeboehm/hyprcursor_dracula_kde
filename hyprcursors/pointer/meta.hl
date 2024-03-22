@@ -1,0 +1,13 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.17
+
+define_size = 24, pointer_000.png, 50
+define_size = 36, pointer_001.png, 50
+define_size = 48, pointer_002.png, 50
+
+define_override = hand2
+define_override = pointing_hand
+define_override = 9d800788f1b08800ae810202380a0822
+define_override = hand1
+define_override = e29285e634086352946a0e7090d73106

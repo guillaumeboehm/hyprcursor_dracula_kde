@@ -1,0 +1,15 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.67
+
+define_size = 24, dnd-move_000.png, 50
+define_size = 36, dnd-move_001.png, 50
+define_size = 48, dnd-move_002.png, 50
+
+define_override = grabbing
+define_override = fcf21c00b30f7e3f83fe0dfd12e71cff
+define_override = 4498f0e0c1937ffe01fd06f973665830
+define_override = 9081237383d90e509aa00f00170e968f
+define_override = closedhand
+define_override = move
+define_override = dnd-none

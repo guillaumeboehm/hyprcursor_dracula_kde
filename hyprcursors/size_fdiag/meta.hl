@@ -1,0 +1,11 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.67
+
+define_size = 24, size_fdiag_000.png, 50
+define_size = 36, size_fdiag_001.png, 50
+define_size = 48, size_fdiag_002.png, 50
+
+define_override = nwse-resize
+define_override = nw-resize
+define_override = se-resize
