@@ -13,6 +13,10 @@ in dark version.
 
 1. Extract hyprcursor_Dracula.tar.gz to `~/.local/share/icons`
 
+### Arch
+
+1. Install the package ![hyprcursor-dracula-kde-git](https://aur.archlinux.org/packages/hyprcursor-dracula-kde-git) from the aur.
+
 ## Usage
 
 - Add the `HYPRCURSOR_THEME` environment variable to your `hyprland` config
