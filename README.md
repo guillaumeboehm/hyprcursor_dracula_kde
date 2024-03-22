@@ -21,7 +21,7 @@ env = HYPRCURSOR_THEME,hyprcursor_Dracula
 ```
 - Set the cursor for the current session (example with a cursor size of 24)
 ```
-hyprctl set-cursor hyprcursor_Dracula 24
+hyprctl setcursor hyprcursor_Dracula 24
 ```
 
 # Troubleshooting
