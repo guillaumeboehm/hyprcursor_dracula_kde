@@ -1,6 +1,6 @@
 # Dracula KDE Hyprcursor
 
-![Cursor-preview](https://github.com/guillaumeboehm/hyprcursor_dracula_kde/assets/Dracula_KDE_cursor_preview.png)
+![Cursor-preview](https://github.com/guillaumeboehm/hyprcursor_dracula_kde/blob/master/assets/Dracula_KDE_cursor_preview.png)
 
 This is a Hyprcursor port of the Dracula themed KDE cursor. It is only available
 in dark version.
