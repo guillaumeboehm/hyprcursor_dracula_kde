@@ -15,7 +15,7 @@ in dark version.
 
 ### Arch
 
-1. Install the package ![hyprcursor-dracula-kde-git](https://aur.archlinux.org/packages/hyprcursor-dracula-kde-git) from the aur.
+1. Install the package [hyprcursor-dracula-kde-git](https://aur.archlinux.org/packages/hyprcursor-dracula-kde-git) from the aur.
 
 ## Usage
 
