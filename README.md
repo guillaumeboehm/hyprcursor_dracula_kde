@@ -46,5 +46,5 @@ debug {
 > See https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/ if it is behaving weirdly in certain windows
 
 Thanks to:
-- ![DraculaGTK](https://github.com/dracula/gtk), imported the cursor theme from their project
-- ![RosePine](https://github.com/ndom91/rose-pine-hyprcursor), took most of their Readme :3
+- [DraculaGTK](https://github.com/dracula/gtk), imported the cursor theme from their project
+- [RosePine](https://github.com/ndom91/rose-pine-hyprcursor), took most of their Readme :3
