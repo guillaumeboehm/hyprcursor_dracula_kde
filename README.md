@@ -11,7 +11,13 @@ in dark version.
 
 ### Manual
 
-1. Extract hyprcursor_Dracula.tar.gz to `~/.local/share/icons`
+1. Run `hyprcursor-util --create . -o .`
+2. Rename the `theme_Dracula` directory if you want to.
+3. Copy the directory to `~/.local/share/icons`
+
+### Arch
+
+Install the [hyprcursor-dracula-kde-git](https://aur.archlinux.org/packages/hyprcursor-dracula-kde-git) package.
 
 ### Arch
 
