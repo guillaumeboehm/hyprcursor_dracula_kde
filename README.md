@@ -1,4 +1,5 @@
 # Dracula KDE Hyprcursor
+## Archiving this repo, contact me if you want me to transfer ownership.
 
 ![Cursor-preview](https://github.com/guillaumeboehm/hyprcursor_dracula_kde/blob/master/assets/Dracula_KDE_cursor_preview.png)
 
